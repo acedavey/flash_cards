@@ -1,0 +1,13 @@
+.card {
+ background-color: blue;
+ height: 200px;
+}
+
+.front {
+  text-align: center;
+
+}
+
+.back {
+  text-align: center;
+}
